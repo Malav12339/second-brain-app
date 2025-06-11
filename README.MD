@@ -1,6 +1,6 @@
 # 🧠 Second Brain
 
-A minimal, personal knowledge management tool to save and revisit your favorite **tweets**, **YouTube videos**, and (soon) **documents** — all in one place.
+A minimal, personal knowledge management tool to save and revisit your favorite **tweets**, **YouTube videos**, and **documents** — all in one place.
 
 ---
 
