@@ -23,7 +23,7 @@ export const Signup = () => {
     return <div className="h-screen w-screen bg-gray-200 flex justify-center items-center">
         <div className="bg-white border min-w-48 rounded-xl p-8">
             <Input reference={usernameRef} placeholder="Username" />
-            <Input reference={passwordRef} placeholder="Password" />
+            <Input reference={passwordRef} placeholder="Password" type="password" />
             <p className="p-2">Have an account? <a href="/signin" className="text-violet-800">Sign in</a></p>
             <div className="pt-5">
                 <Button onClick={signup} loading={false} variant="primary" text="Signup" fullWidth={true} />

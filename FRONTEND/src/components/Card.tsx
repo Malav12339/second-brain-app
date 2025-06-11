@@ -72,7 +72,7 @@ export function Card({ title, link, type, _id, onDelete}: CardProps) {
                         </a>
                     </div>
                     <div className="text-gray-500">
-                        <a target="_blank" onClick={deleteCard}>
+                        <a className="cursor-pointer" onClick={deleteCard}>
                             <DustbinIcon />
                         </a>
                     </div>
