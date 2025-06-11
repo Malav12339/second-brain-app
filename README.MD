@@ -11,3 +11,8 @@ A minimal, personal knowledge management tool to save and revisit your favorite 
 - 📺 **YouTube video embedding** via responsive iframes
 - 🔗 **Quick access** to original content with share icons
 - 💡 Clean, minimal UI focused on easy consumption
+
+## 📸 Screenshots
+
+- signup page
+![Signup Page](./FRONTEND/screenshots/Screenshot%202025-06-11%20171318.png)
